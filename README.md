@@ -58,8 +58,8 @@ The current version of the application,  two interactive data plots are supporte
    * Marker Size - Select size of the marker
    * Show data option - an option to select display raw data of the scatter plot
 
-## Configuration
-No configuration
+## EDA Web Service URL on render.com
+https://streamlite-app.onrender.com
 
 ## License
 This project is licensed under the MIT License.
