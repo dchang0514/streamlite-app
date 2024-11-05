@@ -18,7 +18,7 @@ The current version of the application,  two interactive data plots are supporte
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
-- [Web Service URL](#Web Service URL)
+- [Depolyment](#deployment)
 - [License](#license)
 - [Contact](#contact)
 
@@ -54,7 +54,7 @@ The current version of the application,  two interactive data plots are supporte
    * Marker Size - Select size of the marker
    * Show data option - an option to select display raw data of the scatter plot
 
-## Web Service URL
+## Deployment
 The web service URL deployed at render.com is:
 https://streamlite-app.onrender.com
 
