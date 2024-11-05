@@ -18,32 +18,28 @@ The current version of the application,  two interactive data plots are supporte
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
-- [Configuration](#configuration)
+- [Web Service URL](#Web Service URL)
 - [License](#license)
 - [Contact](#contact)
 
 ---
 
 ## Installation
-
 1. **Clone the repository:**
-   ```bash
    git clone https://github.com/dchang0514/streamlite-app.git
 
 2. **Navigate to the project directory:**
- ```bash
    cd streamlite-app
 
 3. **Install dependencies:**
-```bash
    pip install -r requirements.txt
 
+---
+
 ## Usage
-```bash
    streamlit run app.py
 
 ## Features
-
 1. Interactive Histogram - It used to represent the distribution of a continuous 
    variables (e.g. column 'brand'). The histogram provides four control boxes:
    * Select Column - Select a column of the dataset as the x-axis
@@ -58,7 +54,8 @@ The current version of the application,  two interactive data plots are supporte
    * Marker Size - Select size of the marker
    * Show data option - an option to select display raw data of the scatter plot
 
-## EDA Web Service URL on render.com
+## Web Service URL
+The web service URL deployed at render.com is:
 https://streamlite-app.onrender.com
 
 ## License
